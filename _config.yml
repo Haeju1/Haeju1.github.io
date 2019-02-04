@@ -1,2 +1,3 @@
 name: Haeju Jeong, USC Freshman
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
