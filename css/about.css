@@ -24,9 +24,20 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
-    font-size: 1.5em;
+    font-size: 2.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    border: 5px solid red;
+    padding: 10px;
+	/*border: 5px solid gray;*/
+    padding:16px 34px;
+    border-radius:100px;
+    color:#fff;
+    margin-right:10px;
+    -webkit-transition:all 200ms ease-in-out;
+    transition:all 200ms ease-in-out;
+    position:relative;
+    -webkit-box-shadow:0 15px 24px rgba(0,0,0,0.12),0 19px 76px rgba(0,0,0,0.2);
+    box-shadow:0 15px 24px rgba(0,0,0,0.12),0 19px 76px rgba(0,0,0,0.2);
+    border-radius:100px
 }
 p {
     font-size: 1.5em;
