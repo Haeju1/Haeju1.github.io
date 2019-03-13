@@ -22,7 +22,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-        border: 5px solid red;
+        border: 5px solid blue;
 }
 h2 {
     font-size: 2.5em;
@@ -41,21 +41,18 @@ h2 {
     float: left;
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    border: 5px solid red;
 }
 #soccer 
 {
     font-size: 2.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 10px;
-    border: 5px solid gray;
 }
 #tutor
 {
     font-size: 2.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 10px;
-    border: 5px solid blue;
 }
 p {
     font-size: 1.5em;
