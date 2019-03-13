@@ -38,6 +38,10 @@ h2 {
 #soccer, #tutor
 {
     display:inline;
+    float: left;
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    border: 5px solid red;
 }
 #soccer 
 {
