@@ -1,9 +1,10 @@
+
 body {
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Georgia';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -20,40 +21,74 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-        border: 5px solid blue;
+    font-size: 2em;
+    font-family:'Georgia';
+    float: center;
+    /* border: 5px solid red; */
 }
 h2 {
-    font-size: 2.5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 10px;
-        border: 5px solid green;
-
+    font-size: 2em;
+    font-family:'Georgia';
+    /* padding: 10px; */
+    /* border: 5px solid gray; */
+}
+.about
+{
+  width: 504px;
+  align: center;
+  padding-left: 800px;
 }
 #activities
 {
     text-align:center;
+    /* width: 400px; */
 }
 #soccer, #tutor
 {
     display:inline;
-    float: left;
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    border: 2px solid gray;
 }
-#soccer 
+#soccer, #soccer_text
 {
-    font-size: 2.5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    border-collapse:collapse;
+    border-spacing:0
+    font-size: 1em;
+    font-family:'Georgia';
+    width: 450px;
+    display: inline-block;
+    vertical-align:baseline;
     padding: 10px;
 }
-#tutor
+#soccer_title
 {
-    font-size: 2.5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+
+  vertical-align:baseline;
+  font-size: 2em;
+  font-family:'Georgia';
+  width: 500px;
+  display: inline-block;
+}
+#tutor, #tutor_text
+{
+    border-collapse:collapse;
+    border-spacing:0
+    font-size: 1em;
+    font-family:'Georgia';
+    width: 500px;
+    display: inline-block;
+    vertical-align:baseline;
     padding: 10px;
 }
+#tutor_title
+{
+  vertical-align:baseline;
+  font-size: 2em;
+  font-family:'Georgia';
+  width: 500px;
+  display: inline-block;
+
+}
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
@@ -64,8 +99,8 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 20em;
 }
 
