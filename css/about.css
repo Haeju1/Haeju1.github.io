@@ -92,6 +92,25 @@ h2 {
   font-family:'Georgia';
   width: 500px;
 }
+#sneaker, #sneaker_text
+{
+    border-collapse:collapse;
+    border-spacing:0;
+    font-size: 1em;
+    font-family:'Georgia';
+    width: 500px;
+    padding: 10px;
+    display: inline-block;
+    vertical-align:baseline;
+}
+#sneaker_title
+{
+  vertical-align:baseline;
+  display: inline-block;
+  font-size: 2em;
+  font-family:'Georgia';
+  width: 500px;
+}
 
 p {
     font-size: 1.5em;
