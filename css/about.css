@@ -58,11 +58,13 @@ h2 {
     font-family:'Georgia';
     width: 450px;
     padding: 10px;
+    display: inline-block;
+    vertical-align:baseline;
 }
 #soccer_title
 {
-
   vertical-align:baseline;
+  display: inline-block;
   font-size: 2em;
   font-family:'Georgia';
   width: 500px;
@@ -75,14 +77,16 @@ h2 {
     font-family:'Georgia';
     width: 500px;
     padding: 10px;
+    display: inline-block;
+    vertical-align:baseline;
 }
 #tutor_title
 {
   vertical-align:baseline;
+  display: inline-block;
   font-size: 2em;
   font-family:'Georgia';
   width: 500px;
-
 }
 
 p {
