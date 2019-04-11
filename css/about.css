@@ -31,8 +31,8 @@ h1 {
 h2 {
     font-size: 2em;
     font-family:'Georgia';
-    /* padding: 10px; */
-    /* border: 5px solid gray; */
+    padding: 10px; 
+    border: 5px solid gray;
 }
 .about
 {
