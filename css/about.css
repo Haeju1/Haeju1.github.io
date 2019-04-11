@@ -40,6 +40,10 @@ h2 {
   align: center;
   padding-left: 400px;
 }
+#tutor_text
+{
+    width: 1004px;
+}
 #activities
 {
     text-align:center;
