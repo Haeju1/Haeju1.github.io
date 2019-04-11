@@ -38,7 +38,7 @@ h2 {
 {
   width: 1004px;
   align: center;
-  padding-left: 400px;
+  /*padding-left: 400px;*/
 }
 #about_text
 {
@@ -57,7 +57,7 @@ h2 {
 #soccer, #soccer_text
 {
     border-collapse:collapse;
-    border-spacing:0
+    border-spacing:0;
     font-size: 1em;
     font-family:'Georgia';
     width: 450px;
@@ -76,7 +76,7 @@ h2 {
 #tutor, #tutor_text
 {
     border-collapse:collapse;
-    border-spacing:0
+    border-spacing:0;
     font-size: 1em;
     font-family:'Georgia';
     width: 500px;
